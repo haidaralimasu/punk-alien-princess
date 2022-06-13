@@ -31,7 +31,7 @@ import {
 function Footer() {
   return (
     <FooterContainer>
-      <SocialLogo to="/">EST. 2022 BY BOSS CLUB COLLECTIVE LLC</SocialLogo>
+      <SocialLogo to="/">EST. 2022 BY PUNK ALIEN PRINCESS</SocialLogo>
     </FooterContainer>
   );
 }

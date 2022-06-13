@@ -39,7 +39,7 @@ function InfoSection({
 
                 <Heading lightText={lightText}></Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>
-                  3000 NFT's at 0.06 Eth presale & 0.07 Eth main sale. Max 5 per
+                  7777 NFT's at 0.06 Eth presale & 0.07 Eth main sale. Max 5 per
                   transaction.
                 </Subtitle>
                 <div>
